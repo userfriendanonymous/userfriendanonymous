@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am basically an anonymous coder which codes in a markup language called Javascript.
 <!--
 **userfriendanonymous/userfriendanonymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
