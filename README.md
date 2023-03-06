@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![userfriendanonymous's GitHub stats](https://github-readme-stats.vercel.app/api?username=userfriendanonymous)](https://github.com/userfriendanonymous/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userfriendanonymous)](https://github.com/userfriendanonymous/github-readme-stats)
